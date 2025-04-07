@@ -1,5 +1,0 @@
-<?php
-
-require 'conexion.php'
-
-?>
